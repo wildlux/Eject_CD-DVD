@@ -1,1 +1,1 @@
-# Eject_CD-DVD
+Eject your CD and DVD or force it!
